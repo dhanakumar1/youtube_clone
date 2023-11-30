@@ -1,0 +1,38 @@
+.header {
+  background-color: #ffffff;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 5px;
+ margin-top: 10px;
+ 
+}
+.header__photo {
+ 
+  height: 30px;
+  object-fit: contain;
+  margin-left: 20px;
+  
+}
+.left__side {
+  display: flex;
+  align-items: center;
+
+}
+
+
+.right__side{
+  
+  
+  display: flex;
+  align-items: center;
+  margin-right: 1%;
+}
+
+
+.search__button{
+  width: 50px  !important;
+  background-color: solid  rgb(146, 130, 130);
+ 
+
+}
